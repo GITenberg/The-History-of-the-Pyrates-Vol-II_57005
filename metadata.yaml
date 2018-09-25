@@ -1,5 +1,8 @@
 _repo: The-History-of-the-Pyrates-Vol-II_57005
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57005-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Defoe, Daniel
@@ -14,6 +17,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/j#a26500
     - http://en.wikipedia.org/wiki/Daniel_Defoe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57005#The-History-of-the-Pyrates-Vol-II
 gutenberg_issued: '2018-04-20'
 gutenberg_type: Text
 identifiers:
